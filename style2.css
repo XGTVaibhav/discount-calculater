@@ -1,0 +1,62 @@
+h2{
+    color: yellowgreen;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Instrument Serif', serif;
+    font-family: 'Roboto Slab', serif;
+}
+.Container{
+    text-align: center;
+    background-color: rgb(113, 158, 127);
+    width: 500px;
+    margin-left: 300px;
+    margin-top: 150px;
+    margin-right: 300px;
+    border-radius: 10px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Instrument Serif', serif;
+    font-family: 'Roboto Slab', serif;
+}
+#calculator{
+    
+    background-color: yellowgreen;
+    padding: 10px;
+    width: 150px;
+    color: cadetblue;
+    font-weight: bolder;
+    border-radius: 10px;
+    margin-left: 100px;
+    font-size: large;
+    margin-top: 20px;
+}
+#calculator2{
+    
+    background-color: yellowgreen;
+    padding-left: 20px;
+    width: 80px;
+    color: cadetblue;
+    font-weight: bolder;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+#labelAge{
+color: yellowgreen;
+font-size: larger;
+font-weight: bolder;
+text-align: center;
+}
+input{
+    width: 100px;
+    border-radius: 10px;
+}
+#Age{
+    
+    color: yellowgreen;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Instrument Serif', serif;
+font-family: 'Roboto Slab', serif;
+}
+}
+.socialMedia{
+    color: white;
+}
